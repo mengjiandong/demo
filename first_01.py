@@ -7,7 +7,7 @@ if __name__ == '__main__':
     w.resize(400, 200)
     w.move(300, 300)
 
-    w.setWindowTitle("第一个基于PyQt5的桌面应用l")
+    w.setWindowTitle("第一个基于PyQt5的桌面应用")
     w.show()
     sys.exit(app.exec())
 
